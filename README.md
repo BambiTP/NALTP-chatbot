@@ -8,8 +8,8 @@ Fine-tune GPT-2 on your own dialogue data using Hugging Face Transformers.
 # Run setup script (creates venv, project folder, and clones transformers)
 ./start.sh
 
-# Download your training file and place it in NALTP-chatbot/
-# Example: train.txt
+# Download the training file and place it in NALTP-chatbot/
+# https://drive.google.com/file/d/13hJNCW2af1Hu6StoM1BjjFVUYj2odtYw/view?usp=sharing
 
 # Activate virtual environment
 source venv/bin/activate
