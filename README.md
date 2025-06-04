@@ -20,7 +20,8 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Run Training
-
+# Ask chatgpt for the best options 
+# you can change the model to whatever you want
 ```bash
 python run_clm.py \
   --model_name_or_path gpt2 \
