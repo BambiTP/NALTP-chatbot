@@ -1,6 +1,6 @@
 # NALTP Chatbot Training
 
-Fine-tune GPT-2 on your own dialogue data using Hugging Face Transformers.
+Fine-tune a LLM using NALTP discord chats
 
 ## 🛠 Setup Instructions
 
